@@ -1,0 +1,43 @@
+|-------------------------------------------------------------------------------------------------------|
+|                                     Lok Jagruti Kendra University                                     |
+|-------------------------------------------------------------------------------------------------------|
+|                                         Ahmedabad - 382210,INDIA                                      |
+|                               (Established by Gujarat Act No. 19 of 2019)                             |
+|-------------------------------------------------------------------------------------------------------|
+|                                                                                                       |
+|                                        Semester Performance Report                                    |
+|                                  LJ Institute of Engineering & Technology                             |
+|                                                                                                       |
+|-------------------------------------------------------------------------------------------------------|
+|                                                                                                       |
+|  Program : B.E.                                                   Semester : 1                        |
+|  Enrollment no : 22002171210201                                   Enrollment no(old) : -              |
+|  Name : vivek                                    Medium of Instruction : English                      |
+|                                                                                                       |
+|-------------------------------------------------------------------------------------------------------|
+|    Code    |            Course Title          | Credit | Theory grade | Practical grade |Overall grade|
+|  017121191 |  Mathematics-I                   |    6   |      O                 -            O        |
+|  117122191 |  JAVA-I                          |    6   |      O+                O            O        |
+|  017123191 |  Software Engineering            |    4   |      A++               A+           A++      |
+|  017121192 |  Physics                         |    4   |      A++               O+           O        |
+|  017122192 |  IOT Workshop                    |    2   |      -                 A++          A++      |
+|  017122193 |  Computer Workshop               |    2   |      -                 A+           A+       |
+|  017128191 |  Environmental Science           |    0   |      O                 -            PASS     |
+|-------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------|
+|------------------------------- Semester Performace Index Report --------------------------------------|
+| Credits Offered : 24                                                                                  |
+| Credits Earned : 24                                                                                   |
+| Total Grade points earned : 199.0                                                                     |
+| SPI : Total Grade Points earned/ Total offered credits                                                |
+| SPI : 8.29                                                                                            |
+|                                                                                                       |
+|------------------------------- Progressive Performace Index Report -----------------------------------|
+|                                                                                                       |
+| PPI : Total Grade Points earned/ Total offered credits                                                |
+| PPI : 8.29                                                                                            |
+|                                                                                                       |
+|-------------------------------------------------------------------------------------------------------|
+|                             You are Passed with : First Class with Distinction                        |
+|                                                                                                       |
+|-------------------------------------------------------------------------------------------------------|
