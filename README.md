@@ -1,0 +1,1 @@
+Student Management System:Developed a Java-based Student Management System with a relational database, featuring modules for adding/removing students, tracking attendance, automating grades, managing class schedules, and processing leave requests.
